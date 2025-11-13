@@ -1,0 +1,6 @@
+{
+  "name": "russian-interior-vote",
+  "version": "1.0.0",
+  "main": "api/vote.js",
+  "license": "MIT"
+}
